@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Converters_DCDC_ACDC)(type KiCad)(uri "$(KISYSMOD)/Converters_DCDC_ACDC.pretty")(options "")(descr ""))
+)

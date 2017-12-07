@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name Connector1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector.lib)(options "")(descr ""))
+  (lib (name device1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/device.lib)(options "")(descr ""))
+  (lib (name Diode1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Diode.lib)(options "")(descr ""))
+  (lib (name ESD_Protection1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/ESD_Protection.lib)(options "")(descr ""))
+  (lib (name power1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/power.lib)(options "")(descr ""))
+  (lib (name powerint1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/powerint.lib)(options "")(descr ""))
+  (lib (name analog_devices1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/analog_devices.lib)(options "")(descr ""))
+  (lib (name door)(type Legacy)(uri /home/miceuz/Xaltura/DoorCtrl/door.lib)(options "")(descr ""))
+  (lib (name dc-dc1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/dc-dc.lib)(options "")(descr ""))
+)
